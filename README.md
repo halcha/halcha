@@ -2,7 +2,7 @@
 - 👀 I’m interested in product design using machine learning
 - 🌱 I’m currently learning reinforment learning and it's application for exploring philosophical ideas 
 - 💞️ I’m looking to collaborate on user interface design, user experience design and code experiments
-- 📫 How to reach me: [Check out my Portfolio](https://halcha.github.io) or [Get in Touch](mailto:sammchall@gmail.com?subject=Greetings from Github&body=Let's Collab!).
+- 📫 How to reach me: [Check out my Portfolio](https://halcha.github.io).
 
 <!---
 halcha/halcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
