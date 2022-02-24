@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @halcha
-- 👀 I’m interested in product design using machine learning
-- 🌱 I’m currently learning reinforment learning and it's application for exploring philosophical ideas 
+- 👀 I’m interested in product design systems
+- 🌱 I’m currently learning starting out with archetypes for design research and [how they might work at scale](https://uxdesign.cc/archetypes-in-design-d110dcb3fd7d)
 - 💞️ I’m looking to collaborate on user interface design, user experience design and code experiments
-- 📫 How to reach me: [Check out my Portfolio](https://halcha.github.io).
+- 📫 How to reach me: 
+-   [Home](https://halcha.github.io)
+-   [Medium](https://hamsall.medium.com/)
+-   [Linkedin](https://www.linkedin.com/in/hamsall/)
 
 <!---
 halcha/halcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
